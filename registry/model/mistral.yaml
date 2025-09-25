@@ -1,0 +1,10 @@
+mistralai-small:
+  class: audio_evals.models.mistral.MistralAi
+  args:
+    model: voxtral-small-2507
+
+mistralai-mini:
+  class: audio_evals.models.mistral.MistralAi
+  args:
+    model: voxtral-mini-2507
+
